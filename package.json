@@ -1,0 +1,16 @@
+{
+  "name": "polar-lightning-ejemplo",
+  "version": "1.0.0",
+  "description": "Ejemplo de interacción con Lightning Network usando Polar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["lightning", "network", "polar", "bitcoin"],
+  "author": "Kleyberth",
+  "license": "MIT",
+  "dependencies": {
+    "lightning": "^10.16.0",
+    "lnd-grpc": "^0.5.4"
+  }
+}
